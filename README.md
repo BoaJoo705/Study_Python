@@ -1,2 +1,2 @@
-# Study_Python 
+# 🌓 Study_Python 
 교재: 11가지 프로젝트로 시작하는 파이썬 생활 프로그래밍
